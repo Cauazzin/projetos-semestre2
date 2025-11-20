@@ -1,12 +1,9 @@
-//Exercicio 04 - Lista 03
+// ===================== 5. Tabuada =====================
+let numTab = Number(prompt("5) Digite um número para tabuada:"));
+let t = 1;
+console.log("5) Tabuada de", numTab);
 
-let contadora = 1
-let acumuladora = 0
-
-while (contadora < 51) {
-    if (contadora %2 == 0) {
-        console.log("O número " +contadora+ " é par.")
-    }
-
-    contadora++
+while (t <= 10) {
+    console.log(numTab, "x", t, "=", numTab * t);
+    t++;
 }
