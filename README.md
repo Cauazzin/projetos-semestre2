@@ -1,1 +1,81 @@
-# projetos-semestre2
+📚 Listas de Exercícios em JavaScript
+
+Este repositório contém 5 Listas de Exercícios desenvolvidas em JavaScript, organizadas em pastas separadas.
+Cada lista possui uma estrutura simples composta por:
+
+index.html — arquivo base para execução no navegador
+
+script.js — implementação dos exercícios em JavaScript
+
+O objetivo deste projeto é praticar lógica de programação, manipulação de DOM, estruturas de controle, funções e demais fundamentos essenciais da linguagem.
+
+📂 Estrutura do Repositório
+/
+├── Lista01/
+│   ├── index.html
+│   └── script.js
+├── Lista02/
+│   ├── index.html
+│   └── script.js
+├── Lista03/
+│   ├── index.html
+│   └── script.js
+├── Lista04/
+│   ├── index.html
+│   └── script.js
+└── Lista05/
+    ├── index.html
+    └── script.js
+
+🚀 Como Executar
+
+Clone este repositório:
+
+git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+
+
+Acesse a pasta da lista desejada:
+
+cd Lista01
+
+
+Abra o arquivo index.html no navegador:
+
+Clique duas vezes no arquivo, ou
+
+Utilize o Live Server (VSCode) para recarregamento automático.
+
+🧠 Objetivo
+
+As listas foram criadas para reforçar conhecimento em:
+
+Variáveis e tipos de dados
+
+Condicionais (if, else, switch)
+
+Loops (for, while, do...while)
+
+Funções
+
+Manipulação básica do DOM
+
+Entrada e saída de dados
+
+Lógica de programação
+
+✔️ Tecnologias Utilizadas
+
+HTML5
+
+JavaScript (ES6+)
+
+📌 Observações
+
+Cada lista é independente e pode ser executada separadamente.
+
+Fique à vontade para modificar ou expandir os exercícios.
+
+📄 Licença
+
+Este projeto é livre para estudo e aprimoramento.
+Adicione uma licença caso deseje.
